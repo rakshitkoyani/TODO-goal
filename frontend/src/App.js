@@ -27,6 +27,7 @@ import Footer from "./layouts/Footer"
  */
 import userContext from "./context/userContext";
 
+const BASE_URL = "https://todo-goal-production.up.railway.app/";
 
 const App = () => {
 
